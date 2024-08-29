@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/dyn_123/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/dyn_123/dify-sandbox:0.2.1
