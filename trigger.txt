@@ -1,1 +1,1 @@
-kylinwn/dify-api:a75970169f19ff106974c4217bb4b3400c650a48 registry.cn-hangzhou.aliyuncs.com/dyn_123/dify-gkzx-api:202407081133
+kylinwn/dify-api:a75970169f19ff106974c4217bb4b3400c650a48 registry.cn-hangzhou.aliyuncs.com/dyn_123/dify-api:202407081133
